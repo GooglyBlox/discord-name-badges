@@ -68,3 +68,17 @@
   }
 }
 
+@keyframes rainbow-server-settings {
+  from {color: #33FF00}
+  25%  {color: #FFE600}
+  50%  {color: red}
+  75%  {color: #EA00FF}
+  100% {color: #008CFF}
+}
+
+.button-1w5pas {
+  animation: rainbow-server-settings 4s ease-in-out infinite;
+}
+.name-1jkAdW{
+  animation: rainbow-server-settings 4s ease-in-out infinite; 
+}
